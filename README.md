@@ -3,17 +3,15 @@
 To design and develop a STUDENT ENROLLMENT System using Software Engineering principles and to understand the various phases of software development such as requirement analysis, design, implementation, and testing.
 
 ## SRS (Procedure):
-1. Study the system requirements and understand the working of the STUDENT ENROLLMENT System.
+1.Student Enrollment System helps students register for courses easily and quickly. It reduces manual work and makes the whole enrollment process more organized and efficient.
 
-2. Identify the main actors, entities, and processes involved in the system.
+2.The system provides an online form where students can enter their details like name, address, previous education, and the course they want to join. These details are then checked by the administrator.
 
-3. Define the relationships and interactions among different system components.
+3.After verification, students can pay their enrollment fees through the payment option available in the system. Once the payment is done, it is recorded automatically.
 
-4. Select suitable UML diagrams to represent system behavior and structure.
+4.When the enrollment period ends, the administrator reviews all the applications and checks for any mistakes or missing details.
 
-5. Draw the diagrams using standard UML notations in a modeling tool like StarUML or draw.io.
-
-6. Review and verify the diagrams for correctness and completeness.
+5.After confirmation, the system officially enrolls the student and provides an enrollment confirmation that can be viewed or downloaded by the student.
 
 ## DIAGRAMS:
 (upload all 6 diagrams)
